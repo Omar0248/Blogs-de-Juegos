@@ -1,0 +1,151 @@
+*{
+   margin: 0px;
+    padding: 0px;
+    
+}
+
+
+header{
+    background-color: #d55af2;
+    text-align: center;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    line-height: 100px;
+    border-bottom: 3px dashed;
+}
+
+section{
+    width: 33%;
+    float: left;
+    background-color: #f4dada
+    
+    
+}
+
+.clearfix{
+    
+    clear: both;
+    
+}
+
+
+footer{
+    
+    background-color: rgba(189, 109, 196, 0.81);
+    text-align: center;
+    padding: 20px;
+    clear: both;
+    
+}
+
+nav{
+    height: 50px;
+    background: rgba(189, 109, 196, 0.81);
+    border-bottom: 1px solid black;
+    padding: 15px;
+}
+
+
+
+nav ul li{
+    
+    float: left;
+    background-color: rgba(116, 227, 247, 0.81);
+    list-style: none;
+    margin-right: 10px
+}
+
+article{
+    background-color: rgba(116, 227, 247, 0.81)
+    
+    
+}
+#container{
+    
+    width: 70%;
+    width: 1100px;
+    margin: opx auto;
+    border: 1px black;
+}
+body{
+    background-color: #d55af2;
+    font-family: cursive;
+}
+
+
+#content{
+    float: left;
+    width: calc(80% - 80px);
+    background: rgba(127, 227, 245, 0.96); 
+    min-height: 500px;
+    padding: 40px
+}
+
+
+aside{
+    
+    float: left;
+    width: calc(20% - 20px);
+    background: #d55af2;
+    min-height: 500px;
+    padding: 10px;
+}
+
+footer{
+    
+    background: #d55af2;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.article{
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+    color: black
+}
+
+.article:first-child{
+    border-top: 1px solid rgba(189, 109, 196, 0.81);
+    padding-top: 10px;
+}
+
+.banner{
+    width: 700px;
+    height: 300px;
+    border: 3px solid #671df2;
+    margin: auto;
+    
+    background-image:url(Logo2.png);
+    
+    background-size: 100% 100%;
+        
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
